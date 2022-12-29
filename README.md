@@ -1,4 +1,4 @@
-###LeetCode grind
+### LeetCode grind
 
 - [x] Arrays -> Easy
 - [x] Arrays -> Medium
